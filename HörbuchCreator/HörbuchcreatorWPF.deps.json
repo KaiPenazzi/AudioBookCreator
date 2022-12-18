@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "HörbuchgreatorWPF/1.0.0": {
+      "HörbuchcreatorWPF/1.0.0": {
         "dependencies": {
           "HtmlAgilityPack": "1.11.46",
           "Microsoft.CognitiveServices.Speech": "1.24.2",
@@ -14,7 +14,7 @@
           "NAudio": "2.1.0"
         },
         "runtime": {
-          "HörbuchgreatorWPF.dll": {}
+          "HörbuchcreatorWPF.dll": {}
         }
       },
       "HtmlAgilityPack/1.11.46": {
@@ -506,7 +506,7 @@
     }
   },
   "libraries": {
-    "HörbuchgreatorWPF/1.0.0": {
+    "HörbuchcreatorWPF/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
